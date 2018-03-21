@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="threeButton" type="id" />
+    <item name="twoButton" type="id" />
+    <item name="fourButton" type="id" />
+    <item name="fifthButton" type="id" />
+    <item name="sixButton" type="id" />
+    <item name="sevenButton" type="id" />
+    <item name="eightButton" type="id" />
+    <item name="nineButton" type="id" />
+    <item name="zeroButton" type="id" />
+    <item name="plusButton" type="id" />
+    <item name="multiplyButton" type="id" />
+    <item name="divisionButton" type="id" />
+    <item name="dotbutton" type="id" />
+    <item name="clearButton" type="id" />
+    <item name="equalButton" type="id" />
+    <item name="ResultEditor" type="id" />
+</resources>
